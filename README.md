@@ -14,4 +14,4 @@ I have an INTUITION that first topic resembles 'basketball', second topic resemb
 I then inferred topics for test samples (same 10 samples per class used in Naive Bayes). I checked to see if 10 test samples from cricket will be inferred as having topic 3. And similarly, will 10 samples from each sports class be inferred as having respective topics? Following is the result:
 <p><img src="topic_inferTest.PNG" title="Latent Dirichlet Allocation" alt="LDA"></a></p>
 
-## Do you guys agree that LDA algorithm visualized four sports types as the four topics? Please feel free to write at pandey.datatech@gmail.com
+## Do you guys feel comfortable if I assert that four topics inferred by LDA algorithm can be matched with four sports classes? Please feel free to write at pandey.datatech@gmail.com
