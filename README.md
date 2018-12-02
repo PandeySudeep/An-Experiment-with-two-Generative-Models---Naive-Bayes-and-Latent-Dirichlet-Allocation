@@ -8,4 +8,5 @@ In this experiment I put together four categories of news articles - 'soccer', '
 <p>I then thought if topic modeling by Latent Dirichlet Allocation could identify four classess above as four topics. When K=4 was set as number of topics in the same training sample, following was the topic-word distribution:</p>
 <p><img src="topic_word.PNG" title="Topic Word distribution via LDA" alt="LDAResult"></a></p>
 
-### I have an INTUITION that first topic resembles 'basketball', second topic resembles 'soccer', third topic resembles  'cricket' and fourth topic is like 'Americal futbol'. DO YOU AGREE?
+I have an INTUITION that first topic resembles 'basketball', second topic resembles 'soccer', third topic resembles  'cricket' and fourth topic is like 'Americal futbol'. 
+### DO YOU AGREE?
