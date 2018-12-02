@@ -11,5 +11,6 @@ In this experiment I put together four categories of news articles - 'soccer', '
 I have an INTUITION that first topic resembles 'basketball', second topic resembles 'soccer', third topic resembles  'cricket' and fourth topic is like 'Americal futbol'. 
 ### DO YOU AGREE?
 
-I then inferred topics for test samples (same 10 samples per class used in Naive Bayes) and following is the result:
+I then inferred topics for test samples (same 10 samples per class used in Naive Bayes). I checked to see if 10 test samples from cricket will be inferred as having topic 3. And similarly, 10 samples from each sports class will be inferred as having respective topics. Following is the result:
+
 
