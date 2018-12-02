@@ -12,6 +12,6 @@ I have an INTUITION that first topic resembles 'basketball', second topic resemb
 ### DO YOU AGREE?
 
 I then inferred topics for test samples (same 10 samples per class used in Naive Bayes). I checked to see if 10 test samples from cricket will be inferred as having topic 3. And similarly, will 10 samples from each sports class be inferred as having respective topics? Following is the result:
-<p></p>
+<p><img src="topic_inferTest.PNG" title="Latent Dirichlet Allocation" alt="LDA"></a></p>
 
 
