@@ -9,9 +9,9 @@ In this experiment I put together four categories of news articles - 'soccer', '
 <p><img src="topic_word.PNG" title="Topic Word distribution via LDA" alt="LDAResult"></a></p>
 
 I have an INTUITION that first topic resembles 'basketball', second topic resembles 'soccer', third topic resembles  'cricket' and fourth topic is like 'Americal futbol'. 
-### DO YOU AGREE?
+### ANY COMMENTS?
 
-I then inferred topics for test samples (same 10 samples per class used in Naive Bayes). I checked to see if 10 test samples from cricket will be inferred as having topic 3. And similarly, will 10 samples from each sports class be inferred as having respective topics? Following is the result:
+I then inferred topics for test samples (same 10 samples per class used in Naive Bayes). I checked to see if all the test samples will be inferred to have topics that match naive bayes classification results i.e. will 10 samples from each sports class be inferred as having respective topics? Following is the result:
 <p><img src="topic_inferTest.PNG" title="Latent Dirichlet Allocation" alt="LDA"></a></p>
 
 ## Do you guys feel comfortable if I assert that four topics inferred by LDA algorithm can be matched with four sports classes? Please feel free to write at pandey.datatech@gmail.com
