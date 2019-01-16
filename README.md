@@ -1,4 +1,4 @@
-# An Experiment with two Generative Models: Will Naive Bayes Classification results match Topic Inference (by Latent Dirichlet Allocation) results?
+# Will Naive Bayes Classification results match Topic Inference (by Latent Dirichlet Allocation) results?
 
 ## Overview
 In this experiment I put together four categories of news articles - 'soccer', 'Americal footbal', 'cricket' and 'basketball'. With Naive Bayes, I wrote a classifier that when applied to test data sets (10 articles for each classes), generates following result:
