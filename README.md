@@ -1,4 +1,4 @@
-# Will Naive Bayes Classification results match Topic Inference results?
+# Can Naive Bayes classifed output classes compared to topics inferred by LDA?
 
 ## Overview
 In this experiment I put together four categories of news articles - 'soccer', 'Americal footbal', 'cricket' and 'basketball'. With Naive Bayes, I wrote a classifier that when applied to test data sets (10 articles for each classes), generates following result:
