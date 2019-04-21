@@ -1,7 +1,7 @@
 # Four KNOWN classes (supervised Naive Bayes) and four LATENT topics (topic modeling-LDA) - experiment of intuition.
 
 ## Overview
-In this experiment I put together four categories of news articles - 'soccer', 'Americal footbal', 'cricket' and 'basketball'. With Naive Bayes, I wrote a classifier that when applied to test data sets (10 articles for each classes), generates following result:
+In this experiment I put together four categories of news articles - 'soccer', 'American footbal', 'cricket' and 'basketball'. With Naive Bayes, I wrote a classifier that when applied to test data sets (10 articles for each classes), generates following result:
 
 ### Percentage of correctly classified test samples:
 <p><img src="Capture.PNG" title=" Naive Bayes Classification Result" alt="NBResult"></a></p>
